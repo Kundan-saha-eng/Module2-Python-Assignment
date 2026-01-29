@@ -10,3 +10,8 @@ This program takes the user's first name and last name, combines them into a ful
 - task1_math_operations.py
 - task2_greeting.py
 - README.md
+## Files Included
+
+- [task1_math_operations.py](task1_math_operations.py)
+- [task2_greeting.py](task2_greeting.py)
+- README.md
